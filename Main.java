@@ -27,4 +27,4 @@ public class Main {
         h = new Karnivora();
         h.suara();
     }
-}
+}// update punya david
